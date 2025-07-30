@@ -1,0 +1,10 @@
+.venv
+ai_gpu_env
+logs_efficient
+logs_mobile
+.idea
+PlantVillage
+in_bang.py
+*.png
+*.csv
+*.keras
